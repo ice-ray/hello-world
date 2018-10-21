@@ -1,2 +1,5 @@
 # hello-world
-A small-start repository
+
+Hi!
+
+What a wonderful day!
